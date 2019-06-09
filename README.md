@@ -1,2 +1,3 @@
 1 Download zip
-2.run in cmd  npm install < 
+
+2.run in cmd  npm install < package.json 
